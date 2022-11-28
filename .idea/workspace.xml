@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8600a42-1826-474f-84f3-0aacda632a20" name="Changes" comment="initial">
+    <list default="true" id="d8600a42-1826-474f-84f3-0aacda632a20" name="Changes" comment="Add .idea in gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669657093219</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial1">
+      <created>1669658022232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669658022232</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add .idea in gitignore">
+      <created>1669658584584</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669658584584</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +225,8 @@
     <MESSAGE value="delete .env" />
     <MESSAGE value="delete key.txt" />
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="initial1" />
+    <MESSAGE value="Add .idea in gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .idea in gitignore" />
   </component>
 </project>
